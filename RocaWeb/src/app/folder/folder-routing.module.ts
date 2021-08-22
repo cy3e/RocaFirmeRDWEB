@@ -15,3 +15,4 @@ const routes: Routes = [
   exports: [RouterModule],
 })
 export class FolderPageRoutingModule {}
+npm i @angular-devkit/build-angular
