@@ -5,6 +5,7 @@ ion-menu-button {
 #container {
   text-align: center;
   position: absolute;
+  background-color: rgb(24, 23, 23);
   left: 0;
   right: 0;
   top: 50%;
@@ -26,3 +27,16 @@ ion-menu-button {
 #container a {
   text-decoration: none;
 }
+
+#presentatio{
+  
+  background-image: url("https://scontent.fhex4-1.fna.fbcdn.net/v/t1.6435-9/163627716_1302690686781723_5146403933761990138_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=A76XB06zvsEAX9NTMkR&_nc_ht=scontent.fhex4-1.fna&oh=89918d7f48cd5daf71bf8dd5c674bc2b&oe=614A64F3");
+  image-resolution: 200dpi;
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  
+}  
