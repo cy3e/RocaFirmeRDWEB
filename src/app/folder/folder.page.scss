@@ -15,6 +15,9 @@ ion-menu-button {
 #container strong {
   font-size: 20px;
   line-height: 26px;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: oblique,italic;
+  color: black;
 }
 
 #container p {
@@ -30,13 +33,36 @@ ion-menu-button {
 
 #presentatio{
   
-  background-image: url("https://scontent.fhex4-1.fna.fbcdn.net/v/t1.6435-9/163627716_1302690686781723_5146403933761990138_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=A76XB06zvsEAX9NTMkR&_nc_ht=scontent.fhex4-1.fna&oh=89918d7f48cd5daf71bf8dd5c674bc2b&oe=614A64F3");
+ 
   image-resolution: 200dpi;
   background-color: #cccccc;
-  height: 500px;
+  height: 350px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
   
 }  
+#logo {
+  background-image: url("https://scontent.fhex4-2.fna.fbcdn.net/v/t1.6435-9/136749764_1255320631518729_481819701702031702_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=DcSnkUTQ494AX8F2hEY&tn=UXepwBeC366aM1e-&_nc_ht=scontent.fhex4-2.fna&oh=750d5d00f8a6232afa51fe32105edddf&oe=614934EF");
+  border-radius: 150px;
+}
+
+#title{
+  font-size: 45px;
+  line-height: 26px;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: oblique,italic;
+  color: black;
+}
+#subti {
+  font-size: 15px;
+  line-height: 26px;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: oblique,italic;
+  color: black;
+}
+
+#ubicacion{
+  align-self: start;
+}
